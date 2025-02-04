@@ -1,6 +1,6 @@
 # BeraPaw RFA testnet allocation
 A total of 1,035 addresses were submited to Berachain for testnet RFA allocation.
-This list was submited a long time ago, this means that is immutable. We can't change it so don't bother asking.
+This list was submited a long time ago, this means that is immutable (**WE CAN'T CHANGE IT SO DON'T BOTHER ASKING**).
 List was sybil filtered by our internal intelligence. If your address is not on the list you're probably a sybil.
 
 ## Criteria
