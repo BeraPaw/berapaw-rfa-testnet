@@ -8,4 +8,4 @@ We assigned an amount of points for some tasks undertaken, points are not commul
 
 - 20 pts - Completed BeraPaw pre-testnet quest;
 - 10 pts - Completed BeraPaw public testnet quest;
-- 2 pts - Minted at least 1 LBGT and Minted LBGT at least on 2 times and Staked any amount of PAW (Snapshot Dec 3 2024).
+- 2 pts - Minted at least a total of 1 LBGT on at least 2 transactions (Auto-Mint counts) and Staked any amount of PAW (Snapshot Dec 3 2024).
